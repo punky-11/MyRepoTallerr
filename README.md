@@ -1,9 +1,9 @@
 # MyRepoTallerr
  
  #desarrolladorUno
- ininio_sesion
- notificaciones_tiempo_real
- perfil_de_usuario
+ #ininio_sesion
+ #notificaciones_tiempo_real
+ #perfil_de_usuario
  
  #desarrolladorDos
  Añadir_una_función(me_gusta)
